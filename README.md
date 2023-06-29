@@ -31,7 +31,7 @@
 
 [マイク](hakkason/maiku.py)
 
-[カチューシャ]
+[カチューシャ](hakkason/katyu-sya.py)
 
 [制服]
 
