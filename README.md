@@ -68,4 +68,4 @@
 
 [サンタ服]
 
-[水着](kanojo/mazugi.py)
+[水着](kanojo/mizugi.py)
