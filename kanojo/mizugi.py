@@ -12,3 +12,6 @@ def f(n):
 
 result = f(n)
 print(result)
+
+
+# 大きい桁の計算の仕方がわからなかったです
